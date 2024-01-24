@@ -1,0 +1,7 @@
+#server.port=9195
+#spring.datasource.url= jdbc:postgresql://localhost:5432/lakeSide_Hotel_db
+#spring.datasource.username=mohirdev
+#spring.datasource.password=123
+#
+#spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
+#spring.jpa.hibernate.ddl-auto=update
